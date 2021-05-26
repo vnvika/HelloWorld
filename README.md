@@ -11,7 +11,7 @@ After input:
 
 `javac -d bin src/main/*.java src/entities/*.java`
 
-And then you can launch your program:
+And then you can launch program:
 
 `java -classpath ./bin main.Main`
 
