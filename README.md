@@ -1,7 +1,7 @@
 # What is the program?
 It is a simple program written in **Java**. Output the result to the console.
 ## How will it launch this program?
-You need to install and unpack * src * folder. 
+You need to install and unpack folder. 
 
 In the console, go to the repository folder and enter:
 
